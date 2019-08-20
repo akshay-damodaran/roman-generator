@@ -77,19 +77,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
-@font-face {
-  font-family: "Midnight";
-  font-style: normal;
-  font-weight: 400;
-  src: url('./assets/fonts/MidNight.ttf') format('truetype')
-      url('./assets/fonts/midnight-webfont.woff') format('woff')
-      url('./assets/fonts/midnight-webfont.woff2') format(('woff2'))
-}
-
-@font-face {
-  font-family: 'Darkline';
-  font-style: normal;
-  font-weight: 400;
-  src: url('/public/fonts/Darkline.ttf') format('truetype');
-}
